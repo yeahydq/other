@@ -1,0 +1,4 @@
+# run as another user
+runuser -l  rpm01ua1 -c '/hsbc/create.sh'
+
+
